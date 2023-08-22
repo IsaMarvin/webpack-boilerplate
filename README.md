@@ -71,6 +71,12 @@ This repository provides a basic webpack boilerplate that allows you to quickly 
 
    This will generate optimized files in the `dist` directory that you can deploy to a web server.
 
+## 👥 Authors
+
+👤 IsaMarvin
+
+- GitHub: [IsaMarvin](https://github.com/IsaMarvin)
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
